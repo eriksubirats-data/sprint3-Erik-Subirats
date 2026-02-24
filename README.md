@@ -1,3 +1,2 @@
-# sprint3-Erik-Subirats
-Entregues Sprint 3.
+Entregues Sprint 3 d'Erik Subirats.
 P2P amb .
